@@ -25,3 +25,4 @@ Once Anaconda is installed, open the terminal (or Anaconda Prompt) and run the f
 conda create -n qiskit-env python=3.10
 conda activate qiskit-env
 pip install qiskit
+```
