@@ -8,7 +8,6 @@ In Qiskit:
 - `qc = QuantumCircuit(1,1)` makes a circuit with one qubit and one classical bit.
 
 Each qubit is shown as a **single horizontal wire** in the diagram.
-Classical bits are shown as a **double horizontal wire** in the diagram, with the number of the bits on top.
 
 # Classical Bits
 
