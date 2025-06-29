@@ -7,8 +7,7 @@
 The simplest way to install Qiskit is using pip:
 ```bash
 pip install qiskit
-
-
+```
 
 ## 📦 Method 2: With Anaconda (Recommended)
 
